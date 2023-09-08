@@ -1,0 +1,5 @@
+<%= render "shared/edit_button", name: "Edit", path: edit_project_path(@resource) %>
+<%= render("shared/delete_button", name: "Delete", path: project_path(@resource)) %>
+
+<p> Project: <b><%= @resource.name %></b></p>
+<%= render "shared/members", members: @resource.members%>
