@@ -20,6 +20,6 @@ coverage
 /node_modules
 
 .DS_Store
-
+config/master.key
 
 
