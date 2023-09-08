@@ -57,7 +57,8 @@ To get a local copy up and running follow these simple steps.
 ### Installation
 
 1. Clone the repo and cd into it
-```sh
+```
+https://github.com/stackmaestro/spm.git
 ```
 2. Install the gems
 `bundle install`
